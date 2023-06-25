@@ -1,3 +1,5 @@
+// Júlia de Lima Becher, Matheus Augusto Canteri, Eduarda Bolgenhagen de Campos e Lorenzo Deboni
+
 public class App {
     public static void main(String[] args) {
         int[] vetor = {3, 6, 8, 1, 4, 9, 0};

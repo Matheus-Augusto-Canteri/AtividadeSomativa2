@@ -1,3 +1,5 @@
+// Júlia de Lima Becher, Matheus Augusto Canteri, Eduarda Bolgenhagen de Campos e Lorenzo Deboni
+
 public class SelectionSortRecursive {
 
     public void sort(int[] vetor) {

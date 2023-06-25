@@ -1,3 +1,5 @@
+// Júlia de Lima Becher, Matheus Augusto Canteri, Eduarda Bolgenhagen de Campos e Lorenzo Deboni
+
 public class BubbleSortRecursive {
     public void sort(int[] vetor) {
         bubbleSortRecursive(vetor, vetor.length);
