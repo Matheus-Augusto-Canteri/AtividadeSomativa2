@@ -8,8 +8,17 @@ public class App {
         SelectionSortRecursive sorter = new SelectionSortRecursive();
         sorter.sort(vetor);
 
-        System.out.print("Ordernação utilizando o método de ordenação Selectionsort: ");
+        System.out.print("Ordernação utilizando o método de ordenação SelectionSort: ");
         printArray(vetor);
+
+        vetor = new int[]{3, 6, 8, 1, 4, 9, 0};
+
+        BubbleSortRecursive bubble = new BubbleSortRecursive();
+        bubble.sort(vetor);
+
+        System.out.println("Ordenação utilizando o método de ordenação BubbleSort: ");
+        printArray(vetor);
+
     }
 
     public static void printArray(int[] vetor) {
